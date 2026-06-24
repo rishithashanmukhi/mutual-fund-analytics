@@ -31,6 +31,11 @@ This project analyzes mutual fund datasets and performs data ingestion, validati
 - Pandas
 - NumPy
 - Requests
+- ## Day 2 Progress
+- Cleaned and validated 10 CSV datasets
+- Loaded cleaned data into SQLite database
+- Created SQL queries for analysis
+- Prepared data dictionary documentation
 
 ## Author
 Rishitha Shanmukhi
